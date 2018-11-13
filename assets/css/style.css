@@ -3649,6 +3649,7 @@ select:focus {
 
   .partner-list-s2 {
     padding-right: 60px;
+    justify-content: center;
   }
 
   .navbar .navbar-nav>li>a {
@@ -3714,6 +3715,7 @@ select:focus {
 
   .partner-list-s2 {
     padding-right: 60px;
+    justify-content: center;
   }
 
   .site-header .scroll-down {
@@ -5832,6 +5834,7 @@ select:focus {
   width: 100%;
   margin-top: 20px;
   padding-left: 15px;
+  justify-content: center;
 }
 
 .partner-list-s2 li {
@@ -5868,6 +5871,7 @@ select:focus {
   }
 
   .partner-list-s2 {
+    justify-content: center;
     padding-left: 15px;
   }
 }
